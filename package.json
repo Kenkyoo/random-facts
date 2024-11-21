@@ -1,11 +1,11 @@
 {
-  "name": "my-project",
-  "source": "public/index.html",
+  "name": "currency-chart",
   "scripts": {
-    "start": "parcel",
-    "build": "parcel build"
+    "start": "parcel public/index.html",
+    "build": "parcel build public/index.html"
   },
   "devDependencies": {
     "parcel": "^2.12.0"
   }
 }
+

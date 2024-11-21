@@ -1,6 +1,6 @@
 {
   "name": "my-project",
-  "source": "index.html",
+  "source": "public/index.html",
   "scripts": {
     "start": "parcel",
     "build": "parcel build"
